@@ -66,4 +66,4 @@ Layer 6 — System Design & Scale: ← How it handles millions of users
 ---
 
 ### Example Input
-Youtube’s recommendation feed
+IRCTC's train booking system
